@@ -19,3 +19,10 @@ Tratamento de Erros Projeto referente ao curso "Tratamento de Erros" que ministr
 Atividade: validação de erros por tipo O objetivo é que a função receba um array e retorne ele caso o seu tamanho corresponda ao número enviado como parâmetro na função. Caso contrário, um erro será lançado.
 
 Crie uma função que recebe um array e um número
+
+_____________________________________________________________________________________________________________________________________________________
+
+JS OOP
+
+Atividade: Conta Bancária
+Nesta atividade, vamos testar os conceitos de Orientação a Objetos simulando a criação de diversos tipos de contas bancárias e operações disponíveis em cada uma.
